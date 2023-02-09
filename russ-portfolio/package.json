@@ -1,5 +1,6 @@
 {
   "name": "russ-portfolio",
+  "homepage": "https://glimpseofchowder.github.io/portfolio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
