@@ -1,7 +1,10 @@
-<!doctype html>
-<html>
-<body>
-	<header>
+import React from 'react'
+import './header.css'
+import ME from '../../assets/me11.png'
+
+const Header = () => {
+  return (
+    <header>
 		<div class="container header-container">
 			<h5>Hello I'm</h5>
 			<h1>Marc Russell Guico</h1>
@@ -13,7 +16,7 @@
 			</div>
 			
 			<div class="me">
-				<img src="assets/me11.png" alt="me" />
+				<img src={ME} alt="me" />
 			</div>
 			
 			<a href="#contact" class="scroll-down">Scroll Down</a>
@@ -26,5 +29,7 @@
 			
 		</div>
 	</header>
-</body>
-</html>
+  )
+}
+
+export default Header

@@ -1,6 +1,9 @@
-<!doctype html>
-<html>
-	<footer>
+import React from 'react'
+import './footer.css'
+
+const Footer = () => {
+  return (
+    <footer>
 		<a href="" class="footer-logo">Glimpse</a>
 		
 		<ul class="permalinks">
@@ -21,4 +24,7 @@
 			<small>&copy; EGATOR Tutorials. All rights reserved.</small>
 		</div>
 	</footer>
-</html>
+  )
+}
+
+export default Footer
