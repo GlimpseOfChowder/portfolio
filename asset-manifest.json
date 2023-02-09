@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.81bb0131.css",
+    "main.js": "/portfolio/static/js/main.50ff4f2b.js",
+    "static/media/jshoppe11.png": "/portfolio/static/media/jshoppe11.66d4115a721c25ead61b.png",
+    "static/media/royale.png": "/portfolio/static/media/royale.059cdd2b7bbfa89eed74.png",
+    "static/media/maru.png": "/portfolio/static/media/maru.2f99c78d2952389e8c44.png",
+    "static/media/me11.png": "/portfolio/static/media/me11.2bc06c9594bdd6efa509.png",
+    "index.html": "/portfolio/index.html",
+    "main.81bb0131.css.map": "/portfolio/static/css/main.81bb0131.css.map",
+    "main.50ff4f2b.js.map": "/portfolio/static/js/main.50ff4f2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81bb0131.css",
+    "static/js/main.50ff4f2b.js"
+  ]
+}
